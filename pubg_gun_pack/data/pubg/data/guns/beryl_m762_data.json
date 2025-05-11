@@ -1,0 +1,104 @@
+{
+  "ammo": "pubg:762",
+  "ammo_amount": 30,
+  "extended_mag_ammo_amount": [
+    40,
+    42,
+    40
+  ],
+  "bolt": "closed_bolt",
+  "rpm": 600,
+  "bullet": {
+    "life": 2,
+    "bullet_amount": 1,
+    "damage": 8.8,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0,
+      "head_shot_multiplier": 2.35,
+      "damage_adjust": [
+        {"distance": 55.5, "damage": 8.8},
+        {"distance": 277.5, "damage": 6.6},
+        {"distance": "infinite", "damage": 6.6}
+      ]
+    },
+    "speed": 555,
+    "gravity": 0.026,
+    "knockback": 0,
+    "friction": 0.00,
+    "ignite": {
+      "entity": false,
+      "block": false
+    },
+    "ignite_entity_time": 1,
+    "pierce": 1
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 2.08,
+      "tactical": 2.0
+    },
+    "cooldown": {
+      "empty": 4.21,
+      "tactical": 3.21
+    }
+  },
+  "draw_time": 0.83,
+  "put_away_time": 0.67,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
+  "weight": 0,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.2,
+    "reload": -0.05
+  },
+  "fire_mode": [
+    "auto",
+    "semi",
+    "burst"
+  ],
+  "burst_data": {
+    "continuous_shoot": true,
+    "count": 3,
+    "bpm": 600,
+    "min_interval": 0.3
+  },
+  "crawl_recoil_multiplier": 0.703,
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [1.75, 1.75]},
+      {"time": 0.25, "value": [1.75, 1.75]},
+      {"time": 0.45, "value": [1.75, 1.75]},
+      {"time": 0.6, "value": [1.75, 1.75]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.4, 0.4]},
+      {"time": 0.45, "value": [-0.4, 0.4]}
+    ]
+  },
+  "hurt_bob_tweak_multiplier": 0.05,
+  "inaccuracy": {
+    "stand": 5,
+    "move": 5.75,
+    "sneak": 3.5,
+    "lie": 2.5,
+    "aim": 0.15
+  },
+  "melee": {
+    "distance": 1,
+    "cooldown": 0.7,
+    "default": {
+      "animation_type": "melee_push",
+      "distance": 1,
+      "range_angle": 40,
+      "cooldown": 0,
+      "damage": 1,
+      "knockback": 0.5,
+      "prep": 0.1
+    }
+  },
+  "allow_attachment_types": [
+  ]
+}
