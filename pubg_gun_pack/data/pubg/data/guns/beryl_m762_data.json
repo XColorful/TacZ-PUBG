@@ -86,19 +86,10 @@
     "lie": 2.5,
     "aim": 0.15
   },
-  "melee": {
-    "distance": 1,
-    "cooldown": 0.7,
-    "default": {
-      "animation_type": "melee_push",
-      "distance": 1,
-      "range_angle": 40,
-      "cooldown": 0,
-      "damage": 1,
-      "knockback": 0.5,
-      "prep": 0.1
-    }
-  },
   "allow_attachment_types": [
+    "muzzle",
+    "grip",
+    "extended_mag",
+    "scope"
   ]
 }

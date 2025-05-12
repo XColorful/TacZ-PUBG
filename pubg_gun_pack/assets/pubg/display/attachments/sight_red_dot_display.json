@@ -1,0 +1,19 @@
+{
+  "slot": "pubg:attachment/slot/red_dot",
+  "model": "pubg:attachment/red_dot_geo",
+  "texture": "pubg:attachment/uv/red_dot",
+  "lod": {
+    "model": "pubg:attachment/red_dot_geo",
+    "texture": "pubg:attachment/uv/red_dot"
+  },
+  "zoom": [
+    1.5
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "pubg:attachments/muzzle_silencer_uninstall",
+    "uninstall": "pubg:attachments/muzzle_silencer_uninstall"
+  }
+}

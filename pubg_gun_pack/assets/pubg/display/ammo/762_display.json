@@ -1,3 +1,28 @@
 {
-  "slot": "pubg:ammo/slot/762"
+  "model": "pubg:ammo/762_geo",
+  "texture": "pubg:ammo/uv/762",
+  "slot": "pubg:ammo/slot/762",
+  "shell": {
+    "model": "pubg:shell/762_shell_geo",
+    "texture": "pubg:shell/762_shell"
+  },
+  "transform": {
+    "scale": {
+      "thirdperson": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "ground": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "fixed": [
+        1.5,
+        1.5,
+        1.5
+      ]
+    }
+  }
 }

@@ -1,8 +1,10 @@
 {
-    "pack.pubg.name": "PUBG Gun Pack",
-    "pack.pubg.desc": "PUBG枪械包",
+    "pack.pubg.pubg_gun_pack.name": "PUBG枪械包",
+    "pack.pubg.pubg_gun_pack.desc": "PUBG枪械包",
 
     "pubg.gun.beryl_m762.name": "Beryl M762",
     "pubg.ammo.762.name": "7.62毫米子弹",
-    "pubg.gun.beryl_m762.desc": "现代波兰突击步枪"
+    "pubg.gun.beryl_m762.desc": "现代波兰突击步枪",
+
+    "pubg.attachment.sight_red_dot.name": "红点瞄准镜"
 }
