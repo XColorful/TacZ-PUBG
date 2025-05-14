@@ -1,0 +1,7 @@
+{
+    "name": "pubg.attachment.extended_mag_rifle.name",
+    "display": "pubg:extended_mag_rifle_display",
+    "data": "pubg:extended_mag_rifle_data",
+    "tooltip": "pubg.attachment.extended_mag_rifle.desc",
+    "type": "extended_mag"
+}

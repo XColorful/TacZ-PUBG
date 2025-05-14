@@ -4,7 +4,13 @@
         "addend": 0
     },
     "inaccuracy": {
-        "multiplier": 0.95
+        "multiplier": 0.9524
+    },
+    "sneak_inaccuracy": {
+        "multiplier": 0.9524
+    },
+    "lie_inaccuracy": {
+        "multiplier": 0.9524
     },
     "aim_inaccuracy": {
         "multiplier": 1

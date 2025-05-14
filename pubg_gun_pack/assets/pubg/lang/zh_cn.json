@@ -3,9 +3,18 @@
     "pack.pubg.pubg_gun_pack.desc": "PUBG枪械包",
 
     "pubg.gun.beryl_m762.name": "Beryl M762",
-    "pubg.ammo.762.name": "7.62毫米子弹",
     "pubg.gun.beryl_m762.desc": "现代波兰突击步枪",
+    
+    "pubg.ammo.762.name": "7.62毫米子弹",
 
     "pubg.attachment.red_dot.name": "红点瞄准镜",
-    "pubg.attachment.silencer_rifle.name": "消音器（突击步枪、精确射手步枪）"
+    "pubg.attachment.red_dot.desc": "",
+    "pubg.attachment.silencer_rifle.name": "消音器（突击步枪、精确射手步枪）",
+    "pubg.attachment.silencer_rifle.desc": "降低武器开火声音\n+5% 腰射精确度",
+    "pubg.attachment.quickdraw_mag_rifle.name": "快速弹匣（突击步枪、精确射手步枪、S12K）",
+    "pubg.attachment.quickdraw_mag_rifle.desc": "+60% 换弹速度（实际并没有加速）",
+    "pubg.attachment.extended_mag_rifle.name": "扩容弹匣（突击步枪、精确射手步枪、S12K）",
+    "pubg.attachment.extended_mag_rifle.desc": "",
+    "pubg.attachment.extended_quickdraw_mag_rifle.name": "加长快速弹匣（突击步枪、精确射手步枪、S12K）",
+    "pubg.attachment.extended_quickdraw_mag_rifle.desc": "+15% 换弹速度（实际并没有加速）"
 }

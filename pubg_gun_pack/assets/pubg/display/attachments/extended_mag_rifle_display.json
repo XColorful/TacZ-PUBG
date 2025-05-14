@@ -1,0 +1,9 @@
+{
+    "slot": "pubg:attachment/slot/extended_mag_rifle",
+    "model": "pubg:attachment/extended_mag_rifle_geo",
+    "texture": "pubg:attachment/uv/extended_mag_rifle",
+    "sounds": {
+        "install": "pubg:attachment/silencer_rifle_uninstall",
+        "uninstall": "pubg:attachments/silencer_rifle_uninstall"
+    }
+}

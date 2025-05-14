@@ -2,5 +2,6 @@
     "name": "pubg.attachment.silencer_rifle.name",
     "display": "pubg:silencer_rifle_display",
     "data": "pubg:silencer_rifle_data",
+    "tooltip": "pubg.attachment.silencer_rifle.desc",
     "type": "muzzle"
 }
