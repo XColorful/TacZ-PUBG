@@ -6,5 +6,6 @@
     "pubg.ammo.762.name": "7.62毫米子弹",
     "pubg.gun.beryl_m762.desc": "现代波兰突击步枪",
 
-    "pubg.attachment.sight_red_dot.name": "红点瞄准镜"
+    "pubg.attachment.red_dot.name": "红点瞄准镜",
+    "pubg.attachment.silencer_rifle.name": "消音器（突击步枪、精确射手步枪）"
 }

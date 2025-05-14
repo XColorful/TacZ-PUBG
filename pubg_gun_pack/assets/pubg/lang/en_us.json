@@ -6,5 +6,6 @@
     "pubg.ammo.762.name": "7.62mm ammo",
     "pubg.gun.beryl_m762.desc": "Modern Polish assault rifle",
 
-    "pubg.attachment.sight_red_dot.name": "Red dot sight"
+    "pubg.attachment.red_dot.name": "Red dot sight",
+    "pubg.attachment.silencer_rifle.name": "Suppressor (AR, DMR)"
 }

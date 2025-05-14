@@ -13,7 +13,7 @@
   "sight": true,
   "fov": 70.0,
   "sounds": {
-    "install": "pubg:attachments/muzzle_silencer_uninstall",
-    "uninstall": "pubg:attachments/muzzle_silencer_uninstall"
+    "install": "pubg:attachments/silencer_rifle_uninstall",
+    "uninstall": "pubg:attachments/silencer_rifle_uninstall"
   }
 }

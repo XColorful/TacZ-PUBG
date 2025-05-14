@@ -1,0 +1,6 @@
+{
+    "name": "pubg.attachment.red_dot.name",
+    "display": "pubg:red_dot_display",
+    "data": "pubg:red_dot_data",
+    "type": "scope"
+}

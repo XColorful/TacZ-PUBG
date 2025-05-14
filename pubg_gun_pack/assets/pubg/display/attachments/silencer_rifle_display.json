@@ -1,0 +1,10 @@
+{
+    "slot": "pubg:attachment/slot/silencer_rifle",
+    "model": "pubg:attachment/silencer_rifle_geo",
+    "texture": "pubg:attachment/uv/silencer_rifle",
+    "adapter": "silencer_rifle_adapter",
+    "sounds": {
+        "install": "pubg:attachment/silencer_rifle_uninstall",
+        "uninstall": "pubg:attachments/silencer_rifle_uninstall"
+    }
+}
