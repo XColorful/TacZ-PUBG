@@ -1,0 +1,6 @@
+{
+    "name": "pubg.attachment.vertical_grip.name",
+    "display": "pubg:vertical_grip_display",
+    "data": "pubg:vertical_grip_data",
+    "type": "grip"
+}

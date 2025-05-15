@@ -1,0 +1,9 @@
+{
+    "slot": "pubg:attachment/slot/vertical_grip",
+    "model": "pubg:attachment/vertical_grip_geo",
+    "texture": "pubg:attachment/uv/vertical_grip",
+    "sounds": {
+        "install": "pubg:attachments/silencer_rifle_uninstall",
+        "uninstall": "pubg:attachments/silencer_rifle_uninstall"
+    }
+}

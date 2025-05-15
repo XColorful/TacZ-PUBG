@@ -2,6 +2,5 @@
     "name": "pubg.attachment.red_dot.name",
     "display": "pubg:red_dot_display",
     "data": "pubg:red_dot_data",
-    "tooltip": "pubg.attachment.red_dot.desc",
     "type": "scope"
 }
