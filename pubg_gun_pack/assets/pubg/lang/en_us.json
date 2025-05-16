@@ -10,6 +10,7 @@
     "pubg.attachment.red_dot.name": "Red dot sight",
     "pubg.attachment.silencer_rifle.name": "Suppressor (AR, DMR)",
     "pubg.attachment.silencer_rifle.desc": "",
+    "pubg.attachment.compensator_rifle.name": "Compensator (AR, DMR)",
     "pubg.attachment.quickdraw_mag_rifle.name": "Quickdraw Magazine (AR, DMR)",
     "pubg.attachment.quickdraw_mag_rifle.desc": "",
     "pubg.attachment.extended_mag_rifle.name": "Extended Magazine (AR, DMR)",

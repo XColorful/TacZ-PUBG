@@ -10,6 +10,7 @@
     "pubg.attachment.red_dot.name": "红点瞄准镜",
     "pubg.attachment.silencer_rifle.name": "消音器（突击步枪、精确射手步枪）",
     "pubg.attachment.silencer_rifle.desc": "降低武器开火声音\n+5% 腰射精确度",
+    "pubg.attachment.compensator_rifle.name": "后坐补偿器（突击步枪、精确射手步枪、S12K）",
     "pubg.attachment.quickdraw_mag_rifle.name": "快速弹匣（突击步枪、精确射手步枪、S12K）",
     "pubg.attachment.quickdraw_mag_rifle.desc": "+60% 换弹速度（实际并没有加速）",
     "pubg.attachment.extended_mag_rifle.name": "扩容弹匣（突击步枪、精确射手步枪、S12K）",
