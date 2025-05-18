@@ -1,0 +1,108 @@
+{
+  "ammo": "pubg:762",
+  "ammo_amount": 30,
+  "extended_mag_ammo_amount": [
+    30,
+    42,
+    40
+  ],
+  "bolt": "closed_bolt",
+  "rpm": 600,
+  "bullet": {
+    "life": 2,
+    "bullet_amount": 1,
+    "damage": 9.6,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0,
+      "head_shot_multiplier": 2.35,
+      "damage_adjust": [
+        {"distance": 80.44, "damage": 9.6},
+        {"distance": 107.25, "damage": 9.44},
+        {"distance": 134.07, "damage": 9.28},
+        {"distance": 160.88, "damage": 9.12},
+        {"distance": 187.69, "damage": 8.96},
+        {"distance": 214.51, "damage": 8.81},
+        {"distance": 241.32, "damage": 8.65},
+        {"distance": 268.13, "damage": 8.49},
+        {"distance": 294.94, "damage": 8.33},
+        {"distance": 321.76, "damage": 8.17},
+        {"distance": 348.57, "damage": 8.01},
+        {"distance": 375.38, "damage": 7.85},
+        {"distance": 402.20, "damage": 7.69},
+        {"distance": 429.01, "damage": 7.53},
+        {"distance": 455.82, "damage": 7.37},
+        {"distance": 482.64, "damage": 7.22},
+        {"distance": "infinite", "damage": 7.19}
+      ]
+    },
+    "speed": 555,
+    "gravity": 0.027,
+    "knockback": 0,
+    "friction": 0.00,
+    "ignite": {
+      "entity": false,
+      "block": false
+    },
+    "ignite_entity_time": 1,
+    "pierce": 1
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 1.72,
+      "tactical": 1.7
+    },
+    "cooldown": {
+      "empty": 3.75,
+      "tactical": 3.21
+    }
+  },
+  "draw_time": 0.83,
+  "put_away_time": 0.67,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
+  "weight": 0,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.2,
+    "reload": -0.05
+  },
+  "fire_mode": [
+    "auto",
+    "semi",
+    "burst"
+  ],
+  "burst_data": {
+    "continuous_shoot": true,
+    "count": 3,
+    "bpm": 600,
+    "min_interval": 0.3
+  },
+  "crawl_recoil_multiplier": 0.703,
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [1.466, 1.466]},
+      {"time": 0.25, "value": [1.466, 1.466]},
+      {"time": 0.45, "value": [1.466, 1.466]},
+      {"time": 0.6, "value": [1.466, 1.466]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.587, 0.587]},
+      {"time": 0.45, "value": [-0.587, 0.587]}
+    ]
+  },
+  "hurt_bob_tweak_multiplier": 0.05,
+  "inaccuracy": {
+    "stand": 5,
+    "move": 5.75,
+    "sneak": 3.5,
+    "lie": 2.5,
+    "aim": 0.15
+  },
+  "allow_attachment_types": [
+    "muzzle",
+    "extended_mag",
+    "scope"
+  ]
+}
