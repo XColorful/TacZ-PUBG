@@ -7,7 +7,7 @@
     40
   ],
   "bolt": "closed_bolt",
-  "rpm": 600,
+  "rpm": 700,
   "bullet": {
     "life": 2,
     "bullet_amount": 1,
