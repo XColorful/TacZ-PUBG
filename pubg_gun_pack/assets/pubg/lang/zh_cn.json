@@ -3,9 +3,11 @@
     "pack.pubg.pubg_gun_pack.desc": "PUBG枪械包",
 
     "pubg.gun.beryl_m762.name": "Beryl M762",
-    "pubg.gun.beryl_m762.desc": "现代波兰突击步枪",
+    "pubg.gun.beryl_m762.desc": "现代波兰突击步枪。",
     "pubg.gun.groza.name": "Groza",
-    "pubg.gun.groza.desc": "可选择射击模式的无托式俄式突击步枪",
+    "pubg.gun.groza.desc": "可选择射击模式的无托式俄式突击步枪。",
+    "pubg.gun.slr.name": "自动装填步枪",
+    "pubg.gun.slr.desc": "经典半自动长步枪。",
     
     "pubg.ammo.762.name": "7.62毫米子弹",
 
@@ -18,5 +20,7 @@
     "pubg.attachment.extended_mag_rifle.name": "扩容弹匣（突击步枪、精确射手步枪、S12K）",
     "pubg.attachment.extended_quickdraw_mag_rifle.name": "加长快速弹匣（突击步枪、精确射手步枪、S12K）",
     "pubg.attachment.extended_quickdraw_mag_rifle.desc": "+15% 换弹速度（实际并没有加速）",
-    "pubg.attachment.vertical_grip.name": "垂直握把"
+    "pubg.attachment.vertical_grip.name": "垂直握把",
+    "pubg.attachment.cheek_pad.name": "托腮板（精确射手步枪、狙击步枪）",
+    "pubg.attachment.cheek_pad.desc": "+20% 垂直后坐力控制\n+15% 呼吸时的摇晃程度控制\n+20% 枪口上扬控制\n（该数值可能会因装备的武器不同而产生差异）"
 }
