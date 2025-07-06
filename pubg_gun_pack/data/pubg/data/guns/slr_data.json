@@ -1,0 +1,103 @@
+{
+  "ammo": "pubg:762",
+  "ammo_amount": 10,
+  "extended_mag_ammo_amount": [
+    10,
+    22,
+    20
+  ],
+  "bolt": "closed_bolt",
+  "rpm": 600,
+  "bullet": {
+    "life": 2,
+    "bullet_amount": 1,
+    "damage": 11.2,
+    "tracer_count_interval": 0,
+    "extra_damage": {
+      "armor_ignore": 0,
+      "head_shot_multiplier": 2.35,
+      "damage_adjust": [
+        {"distance": 115, "damage": 11.2},
+        {"distance": 146.5, "damage": 11.06},
+        {"distance": 178, "damage": 10.92},
+        {"distance": 209.5, "damage": 10.78},
+        {"distance": 241, "damage": 10.64},
+        {"distance": 272.5, "damage": 10.5},
+        {"distance": 304, "damage": 10.36},
+        {"distance": 335.5, "damage": 10.22},
+        {"distance": 367, "damage": 10.08},
+        {"distance": 398.5, "damage": 9.94},
+        {"distance": 430, "damage": 9.80},
+        {"distance": 461.5, "damage": 9.66},
+        {"distance": "infinite", "damage": 9.52}
+      ]
+    },
+    "speed": 630,
+    "gravity": 0.024,
+    "knockback": 0,
+    "friction": 0.00,
+    "ignite": {
+      "entity": false,
+      "block": false
+    },
+    "ignite_entity_time": 1,
+    "pierce": 1
+  },
+  "reload": {
+    "type": "magazine",
+    "feed": {
+      "empty": 2.35,
+      "tactical": 2.02
+    },
+    "cooldown": {
+      "empty": 4.79,
+      "tactical": 4.04
+    }
+  },
+  "draw_time": 0.92,
+  "put_away_time": 0.71,
+  "aim_time": 0.2,
+  "sprint_time": 0.2,
+  "weight": 0,
+  "movement_speed": {
+    "base": 0.0,
+    "aim": -0.2,
+    "reload": -0.05
+  },
+  "fire_mode": [
+    "semi"
+  ],
+  "burst_data": {
+    "continuous_shoot": true,
+    "count": 3,
+    "bpm": 600,
+    "min_interval": 0.3
+  },
+  "crawl_recoil_multiplier": 0.703,
+  "recoil": {
+    "pitch": [
+      {"time": 0, "value": [1.707, 1.707]},
+      {"time": 0.25, "value": [1.707, 1.707]},
+      {"time": 0.45, "value": [1.707, 1.707]},
+      {"time": 0.6, "value": [1.707, 1.707]}
+    ],
+    "yaw": [
+      {"time": 0, "value": [-0.658, 0.658]},
+      {"time": 0.45, "value": [-0.658, 0.658]}
+    ]
+  },
+  "hurt_bob_tweak_multiplier": 0.05,
+  "inaccuracy": {
+    "stand": 5,
+    "move": 5.75,
+    "sneak": 3.5,
+    "lie": 2.5,
+    "aim": 0.15
+  },
+  "allow_attachment_types": [
+    "muzzle",
+    "extended_mag",
+    "scope",
+    "stock"
+  ]
+}

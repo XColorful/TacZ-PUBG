@@ -1,0 +1,9 @@
+{
+    "name": "pubg.gun.slr.name",
+    "display": "pubg:slr_display",
+    "data": "pubg:slr_data",
+    "tooltip": "pubg.gun.slr.desc",
+    "type": "rifle",
+    "item_type": "modern_kinetic",
+    "sort": 1
+}

@@ -1,0 +1,9 @@
+{
+    "slot": "pubg:attachment/slot/cheek_pad",
+    "model": "pubg:attachment/cheek_pad_geo",
+    "texture": "pubg:attachment/uv/cheek_pad",
+    "sounds": {
+        "install": "pubg:attachments/silencer_rifle_uninstall",
+        "uninstall": "pubg:attachments/silencer_rifle_uninstall"
+    }
+}
