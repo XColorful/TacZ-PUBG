@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.pubg:groza",
+				"identifier": "geometry.pubg",
 				"texture_width": 128,
 				"texture_height": 128,
 				"visible_bounds_width": 4,
@@ -2713,13 +2713,13 @@
 					"pivot": [0, 0, 0]
 				},
 				{
-					"name": "silencer_rifle_adapter",
+					"name": "suppressor_rifle_adapter",
 					"parent": "attachment_adapter",
 					"pivot": [0, 0, 0]
 				},
 				{
 					"name": "silencer_long_front",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 11.6875, -20],
 					"cubes": [
 						{
@@ -2926,7 +2926,7 @@
 				},
 				{
 					"name": "silencer_long",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 11.6875, -20],
 					"cubes": [
 						{
@@ -3129,7 +3129,7 @@
 				},
 				{
 					"name": "silencer_thick_front",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 11.625, -14.8125],
 					"cubes": [
 						{
@@ -3224,7 +3224,7 @@
 				},
 				{
 					"name": "silencer_thick_mid",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 11.625, -12.5625],
 					"cubes": [
 						{
@@ -3415,7 +3415,7 @@
 				},
 				{
 					"name": "silencer_thick_back",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 11.625, -10.375],
 					"cubes": [
 						{
@@ -3622,7 +3622,7 @@
 				},
 				{
 					"name": "silencer_thick_rear",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 11.625, -9.8125],
 					"cubes": [
 						{
@@ -3797,7 +3797,7 @@
 				},
 				{
 					"name": "silencer_rear",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 11.8125, -9.1875],
 					"cubes": [
 						{

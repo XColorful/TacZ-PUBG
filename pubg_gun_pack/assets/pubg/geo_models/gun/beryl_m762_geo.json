@@ -2591,13 +2591,13 @@
 					"pivot": [0, 13.3018, -17.6875]
 				},
 				{
-					"name": "silencer_rifle_adapter",
+					"name": "suppressor_rifle_adapter",
 					"parent": "attachment_adapter",
 					"pivot": [0, 13.3018, -17.6875]
 				},
 				{
 					"name": "muzzle_default3",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [8, 2.6875, -22],
 					"cubes": [
 						{
@@ -2708,7 +2708,7 @@
 				},
 				{
 					"name": "silencer_0",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 0, 0],
 					"cubes": [
 						{
@@ -2803,7 +2803,7 @@
 				},
 				{
 					"name": "silencer_1",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 0, 0],
 					"cubes": [
 						{
@@ -2890,7 +2890,7 @@
 				},
 				{
 					"name": "silencer_2",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0.09375, 9.6143, -23.8125],
 					"cubes": [
 						{
@@ -3049,7 +3049,7 @@
 				},
 				{
 					"name": "silencer_3",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [-0.71393, 0, 0],
 					"cubes": [
 						{
@@ -3096,7 +3096,7 @@
 				},
 				{
 					"name": "silencer_4",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [-0.78715, 0, 0],
 					"cubes": [
 						{
@@ -3147,7 +3147,7 @@
 				},
 				{
 					"name": "silencer_5",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [-0.71393, 0, 0],
 					"cubes": [
 						{
@@ -3194,7 +3194,7 @@
 				},
 				{
 					"name": "silencer_6",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0.03125, 9.6143, -21.0625],
 					"cubes": [
 						{
@@ -13867,7 +13867,7 @@
 					]
 				},
 				{
-					"name": "stack",
+					"name": "stock",
 					"parent": "BerylM762",
 					"pivot": [0, 0, 0],
 					"cubes": [
@@ -13913,7 +13913,7 @@
 				},
 				{
 					"name": "stack_fix",
-					"parent": "stack",
+					"parent": "stock",
 					"pivot": [8, -1, 7.875],
 					"cubes": [
 						{
@@ -13972,7 +13972,7 @@
 				},
 				{
 					"name": "stack_upper_wire",
-					"parent": "stack",
+					"parent": "stock",
 					"pivot": [0, 10.09735, 18.80895],
 					"cubes": [
 						{
@@ -14006,7 +14006,7 @@
 				},
 				{
 					"name": "stack_rear",
-					"parent": "stack",
+					"parent": "stock",
 					"pivot": [0, 15.3125, 0],
 					"cubes": [
 						{
@@ -14105,7 +14105,7 @@
 				},
 				{
 					"name": "stack_coat",
-					"parent": "stack",
+					"parent": "stock",
 					"pivot": [0, 7.69853, 16.01624],
 					"cubes": [
 						{
@@ -14238,7 +14238,7 @@
 				},
 				{
 					"name": "stack_big_angle",
-					"parent": "stack",
+					"parent": "stock",
 					"pivot": [0, 7.3125, 20.5],
 					"cubes": [
 						{

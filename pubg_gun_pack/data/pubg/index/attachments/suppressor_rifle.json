@@ -1,0 +1,7 @@
+{
+    "name": "pubg.attachment.suppressor_rifle.name",
+    "display": "pubg:suppressor_rifle_display",
+    "data": "pubg:suppressor_rifle_data",
+    "tooltip": "pubg.attachment.suppressor_rifle.desc",
+    "type": "muzzle"
+}

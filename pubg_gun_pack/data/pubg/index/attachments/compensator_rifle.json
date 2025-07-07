@@ -2,5 +2,6 @@
     "name": "pubg.attachment.compensator_rifle.name",
     "display": "pubg:compensator_rifle_display",
     "data": "pubg:compensator_rifle_data",
+    "tooltip": "pubg.attachment.compensator_rifle.desc",
     "type": "muzzle"
 }

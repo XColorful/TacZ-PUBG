@@ -1391,13 +1391,13 @@
 					"pivot": [0, 0, 0]
 				},
 				{
-					"name": "silencer_rifle_adapter",
+					"name": "suppressor_rifle_adapter",
 					"parent": "attachment_adapter",
 					"pivot": [0, 0, 0]
 				},
 				{
 					"name": "silencer_front",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [8, -1.375, -31.75],
 					"cubes": [
 						{
@@ -1492,7 +1492,7 @@
 				},
 				{
 					"name": "silencer_rear_circle",
-					"parent": "silencer_rifle_adapter",
+					"parent": "suppressor_rifle_adapter",
 					"pivot": [0, 0, 0],
 					"cubes": [
 						{

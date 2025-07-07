@@ -2,5 +2,6 @@
     "name": "pubg.attachment.cheek_pad.name",
     "display": "pubg:cheek_pad_display",
     "data": "pubg:cheek_pad_data",
+    "tooltip": "pubg.attachment.cheek_pad.desc",
     "type": "stock"
 }
