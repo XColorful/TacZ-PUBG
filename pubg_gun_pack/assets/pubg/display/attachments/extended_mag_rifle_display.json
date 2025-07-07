@@ -3,7 +3,7 @@
     "model": "pubg:attachment/extended_mag_rifle_geo",
     "texture": "pubg:attachment/uv/extended_mag_rifle",
     "sounds": {
-        "install": "pubg:attachments/silencer_rifle_uninstall",
-        "uninstall": "pubg:attachments/silencer_rifle_uninstall"
+        "install": "pubg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
     }
 }

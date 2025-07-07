@@ -3,7 +3,7 @@
     "model": "pubg:attachment/vertical_foregrip_geo",
     "texture": "pubg:attachment/uv/vertical_foregrip",
     "sounds": {
-        "install": "pubg:attachments/silencer_rifle_uninstall",
-        "uninstall": "pubg:attachments/silencer_rifle_uninstall"
+        "install": "pubg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
     }
 }

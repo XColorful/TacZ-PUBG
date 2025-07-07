@@ -162,9 +162,9 @@
     "pubg.attachment.suppressor_sr.name": "消音器（精确射手步枪、狙击步枪）",
     "pubg.attachment.suppressor_sr.desc": "降低武器开火声音\n+5% 腰射准确度",
     "pubg.attachment.muzzle_brake.name": "枪口制退器（突击步枪、精确射手步枪、O12、S12K）",
-    "pubg.attachment.muzzle_brake.dsec": "+8% 水平后坐力控制\n+8% 垂直后坐力控制\n+35% 开火时的镜头摇晃控制",
+    "pubg.attachment.muzzle_brake.desc": "+8% 水平后坐力控制\n+8% 垂直后坐力控制\n+35% 开火时的镜头摇晃控制",
 
-    "pubg.attachment.canted_sight.name": "侧瞄面具",
+    "pubg.attachment.canted_sight.name": "侧面瞄具",
     "pubg.attachment.red_dot.name": "红点瞄准镜",
     "pubg.attachment.holographic_sight.name": "全息瞄准镜",
     "pubg.attachment.2x_scope.name": "2倍 瞄准镜",

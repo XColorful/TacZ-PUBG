@@ -4,7 +4,7 @@
     "texture": "pubg:attachment/uv/compensator_rifle",
     "adapter": "compensator_rifle_adapter",
     "sounds": {
-        "install": "pubg:attachments/silencer_rifle_uninstall",
-        "uninstall": "pubg:attachments/silencer_rifle_uninstall"
+        "install": "pubg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
     }
 }

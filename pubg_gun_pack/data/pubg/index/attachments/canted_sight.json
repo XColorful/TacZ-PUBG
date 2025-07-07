@@ -1,0 +1,6 @@
+{
+    "name": "pubg.attachment.canted_sight.name",
+    "display": "pubg:canted_sight_display",
+    "data": "pubg:canted_sight_data",
+    "type": "scope"
+}

@@ -13,7 +13,7 @@
   "sight": true,
   "fov": 70.0,
   "sounds": {
-    "install": "pubg:attachments/silencer_rifle_uninstall",
-    "uninstall": "pubg:attachments/silencer_rifle_uninstall"
+    "install": "pubg:attachments/suppressor_rifle_uninstall",
+    "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
   }
 }
