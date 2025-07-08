@@ -1,0 +1,6 @@
+{
+    "name": "pubg.attachment.holographic_sight.name",
+    "display": "pubg:holographic_sight_display",
+    "data": "pubg:holographic_sight_data",
+    "type": "scope"
+}

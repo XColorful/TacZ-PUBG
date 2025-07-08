@@ -1,0 +1,19 @@
+{
+  "slot": "pubg:attachment/slot/holographic_sight",
+  "model": "pubg:attachment/holographic_sight_geo",
+  "texture": "pubg:attachment/uv/holographic_sight",
+  "lod": {
+    "model": "pubg:attachment/holographic_sight_geo",
+    "texture": "pubg:attachment/uv/holographic_sight"
+  },
+  "zoom": [
+    1.5
+  ],
+  "scope": false,
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "pubg:attachments/suppressor_rifle_uninstall",
+    "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
+  }
+}
