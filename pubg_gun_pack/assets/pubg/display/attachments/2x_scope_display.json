@@ -1,0 +1,18 @@
+{
+  "slot": "pubg:attachment/slot/2x_scope",
+  "model": "pubg:attachment/2x_scope_geo",
+  "texture": "pubg:attachment/uv/2x_scope",
+  "lod": {
+    "model": "pubg:attachment/2x_scope_geo",
+    "texture": "pubg:attachment/uv/2x_scope"
+  },
+  "zoom": [
+    2
+  ],
+  "sight": true,
+  "fov": 70.0,
+  "sounds": {
+    "install": "pubg:attachments/suppressor_rifle_uninstall",
+    "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
+  }
+}
