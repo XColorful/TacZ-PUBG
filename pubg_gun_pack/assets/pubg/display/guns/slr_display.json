@@ -2,8 +2,8 @@
   "model": "pubg:gun/slr_geo",
   "texture": "pubg:gun/uv/slr",
   "lod": {
-    "model": "pubg:gun/slr_geo",
-    "texture": "pubg:gun/uv/slr"
+    "model": "pubg:gun/lod/slr_lod_geo",
+    "texture": "pubg:gun/lod/slr_lod"
   },
   "hud": "pubg:gun/hud/slr",
   "slot": "pubg:gun/slot/slr",

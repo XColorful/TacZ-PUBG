@@ -2,8 +2,8 @@
   "model": "pubg:gun/beryl_m762_geo",
   "texture": "pubg:gun/uv/beryl_m762",
   "lod": {
-    "model": "pubg:gun/beryl_m762_geo",
-    "texture": "pubg:gun/uv/beryl_m762"
+    "model": "pubg:gun/lod/beryl_m762_lod_geo",
+    "texture": "pubg:gun/lod/beryl_m762_lod"
   },
   "hud": "pubg:gun/hud/beryl_m762",
   "slot": "pubg:gun/slot/beryl_m762",

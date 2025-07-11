@@ -2,8 +2,8 @@
   "model": "pubg:gun/groza_geo",
   "texture": "pubg:gun/uv/groza",
   "lod": {
-    "model": "pubg:gun/groza_geo",
-    "texture": "pubg:gun/uv/groza"
+    "model": "pubg:gun/lod/groza_lod_geo",
+    "texture": "pubg:gun/lod/groza_lod"
   },
   "hud": "pubg:gun/hud/groza",
   "slot": "pubg:gun/slot/groza",
