@@ -3,8 +3,8 @@
   "model": "pubg:attachment/red_dot_geo",
   "texture": "pubg:attachment/uv/red_dot",
   "lod": {
-    "model": "pubg:attachment/red_dot_geo",
-    "texture": "pubg:attachment/uv/red_dot"
+    "model": "pubg:attachment/lod/red_dot_lod_geo",
+    "texture": "pubg:attachment/lod/red_dot_lod"
   },
   "zoom": [
     1.5

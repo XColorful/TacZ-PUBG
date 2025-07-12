@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.pubg",
+				"texture_width": 8,
+				"texture_height": 8,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "compensater_rifle",
+					"pivot": [0, 0, -1.375],
+					"cubes": [
+						{
+							"origin": [-0.5, -0.5, -2.375],
+							"size": [1, 1, 2.4375],
+							"uv": {
+								"north": {"uv": [2, 2], "uv_size": [1, 1]},
+								"east": {"uv": [0, 0], "uv_size": [2.5, 1]},
+								"south": {"uv": [3, 0], "uv_size": [1, 1]},
+								"west": {"uv": [0, 1], "uv_size": [2.5, 1]},
+								"up": {"uv": [0, 2], "uv_size": [1, 2.5]},
+								"down": {"uv": [1, 4.5], "uv_size": [1, -2.5]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

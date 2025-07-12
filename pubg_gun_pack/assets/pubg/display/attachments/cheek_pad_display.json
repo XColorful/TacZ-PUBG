@@ -2,6 +2,10 @@
     "slot": "pubg:attachment/slot/cheek_pad",
     "model": "pubg:attachment/cheek_pad_geo",
     "texture": "pubg:attachment/uv/cheek_pad",
+    "lod": {
+        "model": "pubg:attachment/lod/cheek_pad_lod_geo",
+        "texture": "pubg:attachment/lod/cheek_pad_lod"
+    },
     "sounds": {
         "install": "pubg:attachments/suppressor_rifle_uninstall",
         "uninstall": "pubg:attachments/suppressor_rifle_uninstall"

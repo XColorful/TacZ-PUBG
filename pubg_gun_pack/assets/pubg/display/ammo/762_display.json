@@ -1,7 +1,11 @@
 {
+  "slot": "pubg:ammo/slot/762",
   "model": "pubg:ammo/762_geo",
   "texture": "pubg:ammo/uv/762",
-  "slot": "pubg:ammo/slot/762",
+  "lod": {
+    "model": "pubg:ammo/lod/762_lod_geo",
+    "texture": "pubg:ammo/lod/762_lod"
+  },
   "shell": {
     "model": "pubg:shell/762_shell_geo",
     "texture": "pubg:shell/762_shell"

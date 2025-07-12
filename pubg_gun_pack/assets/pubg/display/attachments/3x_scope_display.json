@@ -3,8 +3,8 @@
   "model": "pubg:attachment/3x_scope_geo",
   "texture": "pubg:attachment/uv/3x_scope",
   "lod": {
-    "model": "pubg:attachment/3x_scope_geo",
-    "texture": "pubg:attachment/uv/3x_scope"
+    "model": "pubg:attachment/lod/3x_scope_lod_geo",
+    "texture": "pubg:attachment/lod/3x_scope_lod"
   },
   "zoom": [
     3

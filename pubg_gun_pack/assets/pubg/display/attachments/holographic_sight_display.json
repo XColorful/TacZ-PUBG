@@ -3,8 +3,8 @@
   "model": "pubg:attachment/holographic_sight_geo",
   "texture": "pubg:attachment/uv/holographic_sight",
   "lod": {
-    "model": "pubg:attachment/holographic_sight_geo",
-    "texture": "pubg:attachment/uv/holographic_sight"
+    "model": "pubg:attachment/lod/holographic_sight_lod_geo",
+    "texture": "pubg:attachment/lod/holographic_sight_lod"
   },
   "zoom": [
     1.5

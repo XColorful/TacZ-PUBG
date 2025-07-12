@@ -2,6 +2,10 @@
     "slot": "pubg:attachment/slot/vertical_foregrip",
     "model": "pubg:attachment/vertical_foregrip_geo",
     "texture": "pubg:attachment/uv/vertical_foregrip",
+    "lod": {
+        "model": "pubg:attachment/lod/vertical_foregrip_lod_geo",
+        "texture": "pubg:attachment/lod/vertical_foregrip_lod"
+    },
     "sounds": {
         "install": "pubg:attachments/suppressor_rifle_uninstall",
         "uninstall": "pubg:attachments/suppressor_rifle_uninstall"

@@ -2,6 +2,10 @@
     "slot": "pubg:attachment/slot/compensator_rifle",
     "model": "pubg:attachment/compensator_rifle_geo",
     "texture": "pubg:attachment/uv/compensator_rifle",
+    "lod": {
+        "model": "pubg:attachment/lod/compensator_rifle_lod_geo",
+        "texture": "pubg:attachment/lod/compensator_rifle_lod"
+    },
     "adapter": "compensator_rifle_adapter",
     "sounds": {
         "install": "pubg:attachments/suppressor_rifle_uninstall",

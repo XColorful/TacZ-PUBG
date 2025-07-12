@@ -1,0 +1,58 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.pubg:cheek_pad",
+				"texture_width": 16,
+				"texture_height": 16,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1.5,
+				"visible_bounds_offset": [0, 0.25, 0]
+			},
+			"bones": [
+				{
+					"name": "cheekpad",
+					"pivot": [-0.125, 0, 0],
+					"cubes": [
+						{
+							"origin": [-1, -3.375, 2.3125],
+							"size": [2, 3.3125, 5.3125],
+							"inflate": 0.001,
+							"uv": {
+								"north": {"uv": [5, 8], "uv_size": [2, 3.5]},
+								"east": {"uv": [0, 0], "uv_size": [5.5, 3.5]},
+								"south": {"uv": [7, 8], "uv_size": [2, 3.5]},
+								"west": {"uv": [0, 4], "uv_size": [5.5, 3.5]},
+								"up": {"uv": [6, 0], "uv_size": [2, 5.5]}
+							}
+						},
+						{
+							"origin": [-1, -3.375, 2.3125],
+							"size": [2, 1.8125, 5],
+							"pivot": [1, -3.375, 2.3125],
+							"rotation": [-20, 0, 0],
+							"uv": {
+								"east": {"uv": [6, 6], "uv_size": [5, 2]},
+								"south": {"uv": [10, 0], "uv_size": [2, 2]},
+								"west": {"uv": [0, 8], "uv_size": [5, 2]},
+								"down": {"uv": [8, 5], "uv_size": [2, -5]}
+							}
+						},
+						{
+							"origin": [-1, -1.625, 0],
+							"size": [2, 1.5625, 2.3125],
+							"uv": {
+								"north": {"uv": [10, 4], "uv_size": [2, 1.5]},
+								"east": {"uv": [2, 10], "uv_size": [2.5, 1.5]},
+								"west": {"uv": [10, 2], "uv_size": [2.5, 1.5]},
+								"up": {"uv": [9, 8], "uv_size": [2, 2.5]},
+								"down": {"uv": [0, 12.5], "uv_size": [2, -2.5]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

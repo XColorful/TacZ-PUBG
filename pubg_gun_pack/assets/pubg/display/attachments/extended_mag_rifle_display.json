@@ -2,6 +2,10 @@
     "slot": "pubg:attachment/slot/extended_mag_rifle",
     "model": "pubg:attachment/extended_mag_rifle_geo",
     "texture": "pubg:attachment/uv/extended_mag_rifle",
+    "lod": {
+        "model": "pubg:attachment/lod/extended_mag_rifle_lod_geo",
+        "texture": "pubg:attachment/lod/extended_mag_rifle_lod"
+    },
     "sounds": {
         "install": "pubg:attachments/suppressor_rifle_uninstall",
         "uninstall": "pubg:attachments/suppressor_rifle_uninstall"

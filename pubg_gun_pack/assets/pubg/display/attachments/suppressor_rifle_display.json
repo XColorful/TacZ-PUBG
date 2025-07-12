@@ -2,6 +2,10 @@
     "slot": "pubg:attachment/slot/suppressor_rifle",
     "model": "pubg:attachment/suppressor_rifle_geo",
     "texture": "pubg:attachment/uv/suppressor_rifle",
+    "lod": {
+        "model": "pubg:attachment/lod/suppressor_rifle_lod_geo",
+        "texture": "pubg:attachment/lod/suppressor_rifle_lod"
+    },
     "adapter": "suppressor_rifle_adapter",
     "sounds": {
         "install": "pubg:attachments/suppressor_rifle_uninstall",
