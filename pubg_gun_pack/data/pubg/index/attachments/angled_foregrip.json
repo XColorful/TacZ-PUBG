@@ -1,0 +1,7 @@
+{
+    "name": "pubg.attachment.angled_foregrip.name",
+    "display": "pubg:angled_foregrip_display",
+    "data": "pubg:angled_foregrip_data",
+    "tooltip": "pubg.attachment.angled_foregrip.desc",
+    "type": "grip"
+}

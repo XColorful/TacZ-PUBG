@@ -1,0 +1,13 @@
+{
+    "slot": "pubg:attachment/slot/angled_foregrip",
+    "model": "pubg:attachment/angled_foregrip_geo",
+    "texture": "pubg:attachment/uv/angled_foregrip",
+    "lod": {
+        "model": "pubg:attachment/lod/angled_foregrip_lod_geo",
+        "texture": "pubg:attachment/lod/angled_foregrip_lod"
+    },
+    "sounds": {
+        "install": "pubg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
+    }
+}

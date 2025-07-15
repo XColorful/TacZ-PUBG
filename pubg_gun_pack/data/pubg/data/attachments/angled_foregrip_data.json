@@ -1,0 +1,10 @@
+{
+    "recoil": {
+        "yaw": {
+            "multiplier": 0.75
+        }
+    },
+    "ads": {
+        "multiplier": 0.909
+    }
+}
