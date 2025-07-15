@@ -1,0 +1,14 @@
+{
+    "slot": "pubg:attachment/slot/flash_hider_rifle",
+    "model": "pubg:attachment/flash_hider_rifle_geo",
+    "texture": "pubg:attachment/uv/flash_hider_rifle",
+    "lod": {
+        "model": "pubg:attachment/lod/flash_hider_rifle_lod_geo",
+        "texture": "pubg:attachment/lod/flash_hider_rifle_lod"
+    },
+    "adapter": "flash_hider_rifle_adapter",
+    "sounds": {
+        "install": "pubg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
+    }
+}

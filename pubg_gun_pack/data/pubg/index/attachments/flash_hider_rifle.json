@@ -1,0 +1,7 @@
+{
+    "name": "pubg.attachment.flash_hider_rifle.name",
+    "display": "pubg:flash_hider_rifle_display",
+    "data": "pubg:flash_hider_rifle_data",
+    "tooltip": "pubg.attachment.flash_hider_rifle.desc",
+    "type": "muzzle"
+}
