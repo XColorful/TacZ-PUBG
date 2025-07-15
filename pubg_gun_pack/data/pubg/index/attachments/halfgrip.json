@@ -1,0 +1,7 @@
+{
+    "name": "pubg.attachment.halfgrip.name",
+    "display": "pubg:halfgrip_display",
+    "data": "pubg:halfgrip_data",
+    "tooltip": "pubg.attachment.halfgrip.desc",
+    "type": "grip"
+}

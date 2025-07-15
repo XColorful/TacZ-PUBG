@@ -1,0 +1,10 @@
+{
+    "recoil": {
+        "pitch": {
+            "multiplier": 0.926
+        },
+        "yaw": {
+            "multiplier": 0.926
+        }
+    }
+}

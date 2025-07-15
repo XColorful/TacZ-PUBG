@@ -1,0 +1,13 @@
+{
+    "slot": "pubg:attachment/slot/halfgrip",
+    "model": "pubg:attachment/halfgrip_geo",
+    "texture": "pubg:attachment/uv/halfgrip",
+    "lod": {
+        "model": "pubg:attachment/lod/halfgrip_lod_geo",
+        "texture": "pubg:attachment/lod/halfgrip_lod"
+    },
+    "sounds": {
+        "install": "pubg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
+    }
+}
