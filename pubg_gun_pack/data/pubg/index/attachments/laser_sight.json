@@ -1,0 +1,7 @@
+{
+    "name": "pubg.attachment.laser_sight.name",
+    "display": "pubg:laser_sight_display",
+    "data": "pubg:laser_sight_data",
+    "tooltip": "pubg.attachment.laser_sight.desc",
+    "type": "grip"
+}

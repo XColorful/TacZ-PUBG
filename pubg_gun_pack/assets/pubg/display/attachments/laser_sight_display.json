@@ -1,0 +1,19 @@
+{
+    "slot": "pubg:attachment/slot/laser_sight",
+    "model": "pubg:attachment/laser_sight_geo",
+    "texture": "pubg:attachment/uv/laser_sight",
+    "lod": {
+        "model": "pubg:attachment/lod/laser_sight_lod_geo",
+        "texture": "pubg:attachment/lod/laser_sight_lod"
+    },
+    "sounds": {
+        "install": "pubg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
+    },
+    "laser": {
+        "default_color": "0x00FF00",
+        "can_edit": true,
+        "length": 50,
+        "width": 0.02
+    }
+}
