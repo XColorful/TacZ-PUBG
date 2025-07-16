@@ -1,0 +1,13 @@
+{
+    "slot": "pubg:attachment/slot/lightweight_grip",
+    "model": "pubg:attachment/lightweight_grip_geo",
+    "texture": "pubg:attachment/uv/lightweight_grip",
+    "lod": {
+        "model": "pubg:attachment/lod/lightweight_grip_lod_geo",
+        "texture": "pubg:attachment/lod/lightweight_grip_lod"
+    },
+    "sounds": {
+        "install": "pubg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
+    }
+}

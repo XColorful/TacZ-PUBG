@@ -1,0 +1,7 @@
+{
+    "name": "pubg.attachment.lightweight_grip.name",
+    "display": "pubg:lightweight_grip_display",
+    "data": "pubg:lightweight_grip_data",
+    "tooltip": "pubg.attachment.lightweight_grip.desc",
+    "type": "grip"
+}
