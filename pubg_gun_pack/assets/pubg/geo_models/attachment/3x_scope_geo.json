@@ -3813,21 +3813,7 @@
 				},
 				{
 					"name": "scope_view",
-					"pivot": [0, 1.875, 3.4766],
-					"cubes": [
-						{
-							"origin": [-2, 0, 0],
-							"size": [2, 2, 2],
-							"uv": {
-								"north": {"uv": [0, 0], "uv_size": [1, 1]},
-								"east": {"uv": [0, 0], "uv_size": [1, 1]},
-								"south": {"uv": [0, 0], "uv_size": [1, 1]},
-								"west": {"uv": [0, 0], "uv_size": [1, 1]},
-								"up": {"uv": [1, 1], "uv_size": [-1, -1]},
-								"down": {"uv": [1, 1], "uv_size": [-1, -1]}
-							}
-						}
-					]
+					"pivot": [0, 1.875, 3.4766]
 				},
 				{
 					"name": "ocular",
