@@ -1,0 +1,10 @@
+{
+    "recoil": {
+        "pitch": {
+            "multiplier": 0.909
+        }
+    },
+    "ads": {
+        "multiplier": 0.7143
+    }
+}

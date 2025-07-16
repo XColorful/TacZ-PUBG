@@ -1,0 +1,13 @@
+{
+    "slot": "pubg:attachment/slot/thumbgrip",
+    "model": "pubg:attachment/thumbgrip_geo",
+    "texture": "pubg:attachment/uv/thumbgrip",
+    "lod": {
+        "model": "pubg:attachment/lod/thumbgrip_lod_geo",
+        "texture": "pubg:attachment/lod/thumbgrip_lod"
+    },
+    "sounds": {
+        "install": "pubg:attachments/suppressor_rifle_uninstall",
+        "uninstall": "pubg:attachments/suppressor_rifle_uninstall"
+    }
+}

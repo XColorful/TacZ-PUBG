@@ -1,0 +1,7 @@
+{
+    "name": "pubg.attachment.thumbgrip.name",
+    "display": "pubg:thumbgrip_display",
+    "data": "pubg:thumbgrip_data",
+    "tooltip": "pubg.attachment.thumbgrip.desc",
+    "type": "grip"
+}
