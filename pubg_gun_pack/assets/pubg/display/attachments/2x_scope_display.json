@@ -9,6 +9,7 @@
   "zoom": [
     2
   ],
+  "scope": true,
   "sight": true,
   "fov": 70.0,
   "sounds": {

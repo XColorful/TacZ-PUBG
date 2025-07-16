@@ -2990,7 +2990,7 @@
 					]
 				},
 				{
-					"name": "scope6",
+					"name": "ocular_ring",
 					"parent": "scope_body",
 					"pivot": [0, -8.4375, 3.375],
 					"cubes": [

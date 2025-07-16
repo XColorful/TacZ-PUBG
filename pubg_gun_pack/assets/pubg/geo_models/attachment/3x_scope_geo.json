@@ -3139,7 +3139,7 @@
 					"pivot": [0, 0.9375, 0.6875]
 				},
 				{
-					"name": "rear_scope",
+					"name": "ocular_ring",
 					"parent": "scope5",
 					"pivot": [0, -8.4375, 3.375],
 					"cubes": [
