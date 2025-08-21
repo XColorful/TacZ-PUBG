@@ -1,13 +1,11 @@
 # TacZ-PUBG
-自制PUBG枪包及其工程文件
+这是一个用于 Minecraft TaCZ 模组的 PUBG 枪械包，现已**停止更新**。
 
-## 说明：
-- 枪械出处：[PUBG](https://pubg.com/)
-- [TacZ项目地址](https://github.com/MCModderAnchor/TACZ)
-- [TacZ模组下载](https://www.curseforge.com/minecraft/mc-mods/timeless-and-classics-zero/files/)
+## 免责声明
 
-## 安装教程：
-- 将本仓库下"pubg_gun_pack"文件夹复制到游戏目录.\tacz\下即可
+本项目为粉丝个人创作，灵感来源于《PUBG: BATTLEGROUNDS》。所有知识产权，包括枪械的外观、纹理和音效，均归 Krafton, Inc. 所有。本项目为非盈利性质，与任何商业公司无关联。我尊重版权，并承诺如任何版权方提出移除要求，我将立即遵守。
 
 ## License
-- CC BY-NC-ND 4.0
+
+- Code: [GNU GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.txt)
+- Assets: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
